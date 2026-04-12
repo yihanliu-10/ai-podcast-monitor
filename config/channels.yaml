@@ -1,0 +1,36 @@
+channels:
+- name: Lex Fridman Podcast
+  channel_id: UCSHZKyawb77ixDdsGog4iWA
+  category: ai-interviews
+  platform: youtube
+- name: No Priors
+  channel_id: UCSI7h9hydQ40K5MJHnCrQvw
+  category: ai-vc
+  platform: youtube
+- name: Y Combinator
+  channel_id: UCxIJaCMEptJjxmmQgGFsnCg
+  handle: '@ycombinator'
+  category: general
+  platform: youtube
+- name: Lenny's Podcast
+  channel_id: UC6t1O76G0jYXOAoYCm153dA
+  handle: '@LennysPodcast'
+  category: general
+  platform: youtube
+- name: Last Week in AI
+  channel_id: UCKARTq-t5SPMzwtft8FWwnA
+  handle: '@lastweekinai'
+  category: ai-news
+  platform: youtube
+- name: 少女食人花
+  channel_id: '5657484'
+  category: general
+  platform: bilibili
+- name: 小透明明TM
+  channel_id: '192090'
+  category: general
+  platform: bilibili
+- name: 顾爷
+  channel_id: '13680050'
+  category: general
+  platform: bilibili
