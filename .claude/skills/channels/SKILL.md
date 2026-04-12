@@ -1,6 +1,6 @@
 ---
 name: channels
-description: 管理 YouTube 播客频道订阅。查看、添加、删除订阅频道。当用户想管理频道列表时使用。
+description: 管理 YouTube、B站播客频道订阅。查看、添加、删除订阅频道。当用户想管理频道列表时使用。
 user-invocable: true
 disable-model-invocation: false
 allowed-tools: Bash, Read
