@@ -1,13 +1,13 @@
 # AI Podcast Monitor
 
 ## Overview
-Monitor YouTube AI/tech podcast channels, extract transcripts, analyze with Claude, push insights to Notion.
+Monitor YouTube AI/tech podcast channels, extract transcripts, analyze with Claude,save insights locally for a web UI.
 
 ## Architecture
 - Python scripts in `scripts/` handle data fetching (RSS + transcripts)
 - Claude Code skill at `.claude/skills/podcast/SKILL.md` orchestrates the workflow
 - State tracked in `data/processed.json` (gitignored)
-- Notion database "AI Podcast Insights" stores all analysis
+- Results saved as local JSON in data/results/ (one file per episode)
 
 ## Running
 - User invokes `/podcast` to trigger the full workflow
