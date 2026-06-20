@@ -1,6 +1,6 @@
 ---
 name: podcast
-description: 监控 YouTube AI/科技播客频道，获取新集字幕，分析提取洞察，推送到 Notion。当用户想查看最新播客摘要时使用。
+description: 监控 YouTube和B站 AI/科技播客频道，获取新集字幕，分析提取洞察，推送到 Notion。当用户想查看最新播客摘要时使用。
 user-invocable: true
 disable-model-invocation: true
 allowed-tools: Bash, Read, mcp__claude_ai_Notion__notion-search, mcp__claude_ai_Notion__notion-fetch, mcp__claude_ai_Notion__notion-create-pages, mcp__claude_ai_Notion__notion-update-page, mcp__claude_ai_Notion__notion-create-database
