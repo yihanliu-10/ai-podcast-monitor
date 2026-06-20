@@ -4,7 +4,7 @@ description: 监控 YouTube和B站 AI/科技播客频道，获取新集字幕，
 user-invocable: true
 disable-model-invocation: true
 allowed-tools: Bash, Read
-argument-hint: [--list --days N] | [--analyze "id1,id2"]
+argument-hint: '[--list --days N] | [--analyze id1,id2]'
 ---
 
 # AI Podcast Monitor
